@@ -1,0 +1,7 @@
+name,solo-train,co-locate
+mobilenet-same,26,47
+mobilenet-mix,34,54
+deepfm-same,15,49
+deepfm-mix,16,47
+roberta-same,88,93
+roberta-mix,93,96

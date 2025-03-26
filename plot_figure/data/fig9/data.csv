@@ -1,0 +1,9 @@
+name,degree
+VGG,0.57
+MobileNet,1.0
+ResNet,0.23
+DeepFM,1.0
+DeepViT,0.58
+BERT,0.5
+RoBERTa,1.0
+SegNet,0.1

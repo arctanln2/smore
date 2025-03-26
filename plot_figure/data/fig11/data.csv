@@ -1,0 +1,7 @@
+name,serverful,serverless
+mobilenet-same,1.0,33
+mobilenet-mix,0.7,12
+deepfm-same,6.5,28
+deepfm-mix,5.8,26
+bert-same,3.7,45.7
+bert-mix,2.7,39

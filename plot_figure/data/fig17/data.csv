@@ -1,0 +1,6 @@
+name,low load mode,high load mode
+64 GPUs,58,23
+128 GPUs,104,42
+256 GPUs,198,45
+512 GPUs,382,67
+1024 GPUs,795,106
